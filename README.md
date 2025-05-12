@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Buğra Çelik
+# 👋 Hi, I'm Turan Buğra Çelik
 
 Welcome to my GitHub profile! I'm a full stack software developer with a strong background in enterprise application architecture and business-focused development.
 
