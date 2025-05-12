@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a full stack software developer with a strong 
 - 🧩 I specialize in building **multi-layered clean architecture projects**.
 - 📦 I've developed and maintained **ERP systems**, **inventory & warehouse tracking solutions**, and **financial/accounting applications**.
 - 🔧 I work across the full spectrum of a project, including **UI**, **backend**, **database design**, and **version control**.
-- 🔄 I follow best practices such as **Repository Pattern**,**Unit of Work Pattern**, **Result Pattern**, and **modular API development**.
+- 🔄 I follow best practices such as **Repository Pattern**, **Unit of Work Pattern**, **Result Pattern**, and **modular API development**.
 
 ---
 
